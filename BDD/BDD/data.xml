@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<CONFIGURATION>
+	<SALLE NUM_SALLE="1">
+		<OEUVRE NOM="Picasso" QRCODE="azeffe" FICHIER="DocumentAudio.mp3">
+			Description.
+		</OEUVRE>
+		<OEUVRE NOM="Unautregars" QRCODE="qsdvvd" FICHIER="DocumentAudio2.mp3">
+			Description 2.
+		</OEUVRE>
+	</SALLE>
+</CONFIGURATION>
