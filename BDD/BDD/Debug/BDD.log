@@ -1,4 +1,0 @@
-﻿  Using triplet "x86-windows" from "C:\Users\Ghyfo\Desktop\vcpkg-master\installed\x86-windows\"
-  Source.cpp
-C:\Users\Ghyfo\Desktop\BDD\BDD\Source.cpp(8,1): warning C4326: le type de retour de 'main' doit être 'int' au lieu de 'void'
-  BDD.vcxproj -> C:\Users\Ghyfo\Desktop\BDD\Debug\BDD.exe
